@@ -95,7 +95,6 @@ p {
 /* Style the subnav content - positioned absolute */
 .subnav-content {
   display: none;
-  position: absolute;
   left: 0;
   background-color: rgb(73,45,7);
   width: 100%;
@@ -116,7 +115,7 @@ p {
 
 /* When you move the mouse over the subnav container, open the subnav content */
 .subnav:hover .subnav-content {
-  display: block;
+  display: inline-block;
 }
 
 /* Dropdown Button */
@@ -173,8 +172,13 @@ p {
  border-radius: 5px;
 }
 
+#main-container {
+  display: flex;
+}
+
 #card-container {
   padding-left: 20px;
+  width: 60vw;
 }
 
 #card-container h2 {
@@ -182,4 +186,16 @@ p {
   font-size: 1.2em;
   font-style: italic;
   color: rgb(89, 90, 114);
+}
+#side-menu-container {
+  width: 20vw;
+}
+#side-menu-container a {
+  display: block;
+  padding: 5px; 
+  cursor: pointer;
+}
+
+#side-menu-container a:hover {
+  background-color: rgb(172, 172, 172);
 }

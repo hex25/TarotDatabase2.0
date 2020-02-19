@@ -557,11 +557,17 @@ const pentacles = [
 
 
 const cardContainer = document.getElementById('card-container');
+const sideContainer = document.getElementById('side-menu-container');
 const majorLinks = document.getElementById('major-links');
 const wandsLinks = document.getElementById('wands-links');
 const cupsLinks = document.getElementById('cups-links');
 const pentaclesLinks = document.getElementById('pentacles-links');
 const swordsLinks = document.getElementById('swords-links');
+const majorButton = document.getElementById('major-button');
+const cupsButton = document.getElementById('cups-button');
+const swordsButton = document.getElementById('swords-button');
+const wandsButton = document.getElementById('wands-button');
+const pentaclesButton = document.getElementById('pentacles-button');
 
 
 function formatCard(card, container) {
@@ -602,7 +608,10 @@ function formatMajorNav(array, container) {
     }
 }
 
-formatMajorNav(majorArcana, majorLinks)
+majorButton.onclick = function() {
+    sideContainer.innerHTML = '';
+        formatMajorNav(majorArcana, sideContainer); 
+}
 
 function formatWandsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
@@ -620,7 +629,11 @@ function formatWandsNav(array, container) {
     }
 }
 
-formatWandsNav(wands, wandsLinks);
+wandsButton.onclick = function() {
+    sideContainer.innerHTML = '';
+    formatMajorNav(wands, sideContainer); 
+}
+
 
 function formatCupsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
@@ -638,7 +651,10 @@ function formatCupsNav(array, container) {
     }
 }
 
-formatCupsNav(cups, cupsLinks);
+cupsButton.onclick = function() {
+    sideContainer.innerHTML = '';
+    formatCupsNav(cups, sideContainer); 
+}
 
 function formatSwordsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
@@ -656,7 +672,10 @@ function formatSwordsNav(array, container) {
     }
 }
 
-formatSwordsNav(swords, swordsLinks);
+swordsButton.onclick = function() {
+    sideContainer.innerHTML = '';
+    formatSwordsNav(swords, sideContainer); 
+}
 
 function formatPentaclesNav(array, container) {
     for (let i = 0; i < array.length; i++) {
@@ -674,4 +693,7 @@ function formatPentaclesNav(array, container) {
     }
 }
 
-formatPentaclesNav(pentacles, pentaclesLinks);
+pentaclesButton.onclick = function() {
+    sideContainer.innerHTML = '';
+    formatPentaclesNav(pentacles, sideContainer); 
+}
