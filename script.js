@@ -568,6 +568,8 @@ const cupsButton = document.getElementById('cups-button');
 const swordsButton = document.getElementById('swords-button');
 const wandsButton = document.getElementById('wands-button');
 const pentaclesButton = document.getElementById('pentacles-button');
+const minorButton = document.getElementById('minor-button');
+const subNav = document.getElementById('subnav-content');
 
 
 function formatCard(card, container) {
@@ -594,7 +596,7 @@ function formatCard(card, container) {
 function formatMajorNav(array, container) {
 
     for (let i = 0; i < array.length; i++) {
-        let majorLink = document.createElement("A");
+        let majorLink = document.createElement("P");
         majorLink.innerHTML = array[i].name;
         majorLink.id = array[i] + '-button';
         majorLink.addEventListener('click', function () {
@@ -615,7 +617,7 @@ majorButton.onclick = function() {
 
 function formatWandsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
-        let wandsLink = document.createElement("A");
+        let wandsLink = document.createElement("P");
         wandsLink.innerHTML = array[i].name;
         wandsLink.id = array[i] + '-button';
         wandsLink.addEventListener('click', function () {
@@ -637,7 +639,7 @@ wandsButton.onclick = function() {
 
 function formatCupsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
-        let cupsLink = document.createElement("A");
+        let cupsLink = document.createElement("P");
         cupsLink.innerHTML = array[i].name;
         cupsLink.id = array[i] + '-button';
         cupsLink.addEventListener('click', function () {
@@ -658,7 +660,7 @@ cupsButton.onclick = function() {
 
 function formatSwordsNav(array, container) {
     for (let i = 0; i < array.length; i++) {
-        let swordsLink = document.createElement("A");
+        let swordsLink = document.createElement("P");
         swordsLink.innerHTML = array[i].name;
         swordsLink.id = array[i] + '-button';
         swordsLink.addEventListener('click', function () {
@@ -679,7 +681,7 @@ swordsButton.onclick = function() {
 
 function formatPentaclesNav(array, container) {
     for (let i = 0; i < array.length; i++) {
-        let pentaclesLink = document.createElement("A");
+        let pentaclesLink = document.createElement("P");
         pentaclesLink.innerHTML = array[i].name;
         pentaclesLink.id = array[i] + '-button';
         pentaclesLink.addEventListener('click', function () {
