@@ -86,9 +86,9 @@ const majorArcana = [
     {
         name: 'XII The Hanged Man',
         imageUrl: './images/major/hanged-man.jpg',
-        generalInfo: 'This is general info',
-        reversePosition: 'This is info for reverse position',
-        advisePosition: 'This is info for advise position',
+        generalInfo: 'The Hanged Man usually indicates a lack of ability to help oneself through independent action. The energy is arrested and awaiting judgment. With this card, there is no avenue for the will to regain control until the situation has passed. This represents a good time to be philosophical, to study and meditate upon the position you find yourself in, and to form resolutions for the moment you become free again. Only those who possess wisdom, patience, and optimism will be able to see through limitations, including possible humiliation, to grasp the inspiring lesson one can gain from such an experience.',
+        reversePosition: 'The Hanged Man reversed suggests that the seemingly noble deed of offering yourself as the sacrificial lamb is, at least for the time being, a useless gesture. There will be no benefit to the greater good; you will experience no expansion of consciousness. It would be an empty move, so don\'t put yourself in that position. Ask yourself on what basis you allowed yourself to hope that your sacrifice would make a difference in this situation. Who knows? Perhaps this is meant to be an opportunity to learn something about self-denying tendencies.',
+        advisePosition: 'The Hanged Man advises you to surrender illusions of control. Accept that you have been overcome and deceived by your own devices. Having made your bed, you now need to lie in it. This is not a negative judgment. It\'s just that sometimes there are consequences for being in the wrong place at the wrong time. Bad things can happen to good people. These consequences are not fatal, even if they are inconvenient -- or perhaps even embarrassing. Stop resisting your circumstances and let some time go by. Eventually, you will be released a little wiser and not much the worse for wear. You will come to realize in time how you collaborated with the problem. However, the issues you were stuck on when you were first hung up have subsided and no longer concern you. You are free to take up new endeavors. You will ultimately feel refreshed and grateful that you were derailed from your former track.',
     },
     {
         name: 'XIII Death',
@@ -158,403 +158,458 @@ const wands = [
     {
         name: 'Ace of Wands',
         imageUrl: './images/minor/wands/Wands01.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: 'This is advise info for wands',
+        generalInfo: 'An Ace of this suit in this position symbolizes a pivotal act, or fateful step, that will set loose a chain of events leading toward your desired goal. It refers to a birth or new beginning, the inauguration of an endeavor, and the building of the necessary commitment to see a project or plan through. It personifies an aroused Will that is totally focused, aiming at the bulls-eye',
+        reversePosition: 'The Ace of Wands reversed suggests that you may be resisting change, which can seem frightening. Nevertheless, it is to your ultimate advantage not to balk even though the situation may seem risky.',
+        advisePosition: 'The Ace of Wands in this position encourages energetic movement toward activity. Brace yourself and get ready to spring into action. You may need to make your move soon, so make sure you are fully prepared. Trust your instincts and spontaneity. When the opportunity comes, you may want to seize it without hesitation.',
     },
     {
         name: '2 of Wands',
         imageUrl: './images/minor/wands/Wands02.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Two in this suit, often portrayed as crossed wands, imply a deadlock due to energies working at cross-purposes. This could refer to an internal split -- perhaps a duel between optimistic and pessimistic parts of your psyche, for example -- or some situation where you feel "damned if you do, damned if you don\'t." This could be a standoff with another person or rubbing up against limitations that are currently imposed upon you. This card points to the possibility of creeping self-doubt -- the kind that arises in a situation where one has bitten off more than one can chew. Give yourself a moment to take in the full implications of your situation. Find your bearings again before launching back into action. Deal with real concerns now -- before they become regrets!',
+        reversePosition: 'When decision-making stymies you, look within your Self for the solution. The Two of Wands reversed suggests someone who is momentarily stuck in the process of decision making. You feel like you are in an all-too-familiar hall of mirrors, unable to recognize the real doorway amidst the many reflected images of it. Bear in mind that your future self already knows what choice you made. When you can calm down and access the part of yourself that already knows there is a way out, your options will become clear again.',
+        advisePosition: 'The Two of Wands in this position advises you to respect your own decision making process. Instead of criticizing yourself for indecisiveness, appreciate the various implications of possible choices. Avoid pushing yourself to make a commitment. Keep meditating, watching the situation and witnessing the forces at work. At some point you will have enough information to see clearly. The decision-making process will be over and the choice will be clear.',
     },
     {
         name: '3 of Wands',
         imageUrl: './images/minor/wands/Wands03.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'A Three in this suit symbolizes an inner balance that allows you to feel more optimistic about new endeavors you are committed to, or want to commit to. In the illustrated Tarots, the human character is standing on his balcony, watching ships leave the harbor, loaded with his goods for far-off ports, dreaming of the fortune he will reap if all goes well. Summon the optimism within you. This energy must be patient and trusting, because he or she will have to wait some time to find out how the ships have fared. Meanwhile, a lot of resources are tied up until they return with the bounty. Only those truly confident in their ideas and abilities would undertake such a risk. This card represents the energy a person needs to take on great adventures and accomplish noble (and remunerative) deeds. A detail that sometimes appears in the more esoteric Tarots is a winged wand with two snakes twining around it, called the Caduceus, which is Mercury\'s wand. This is an ancient symbol of the healer or shaman, one who can travel between the worlds to rescue souls from death or possession. Perhaps the feeling of empowerment this card represents points to the internal mechanisms of self-healing. Perhaps it refers to the courage it takes to be an entrepreneur or an inventor, which is in itself a magical process -- bringing not only opportunity for success, but also an awakening to higher potentials.',
+        reversePosition: 'Rest will restore lack of drive and optimism. The Three of Wands reversed points to a temporary lapse of drive or will. You might have overdone things and burned the candle at both ends. Give yourself some time to rest and relax. When you\'re feeling restored, another look at existing circumstances will assure you that prospects are still bright no matter what the immediate setbacks might be.',
+        advisePosition: 'The Three of Wands in this position advises you to act quickly and powerfully on an idea or desire you have been feeling. This card suggests exquisite timing, staying in the moment and responding to your instinct or intuition. Every fiber of your being may be saying this is a great opportunity, even if those around you aren\'t as convinced. There\'s nothing to lose from taking a risk; this is a great moment in your entrepreneurial growth. Make your move and sort out the details later.',
     },
     {
         name: '4 of Wands',
         imageUrl: './images/minor/wands/Wands04.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'A Four in this suit is the teamwork card, often symbolized by two couples who have come together to create something profitable and enduring. Quite likely, they will create a gift for the future -- a business, hospital, theater or university. They represent the founding families of the future community that will grow around their inspiration. Teamwork is the key. It takes time to build a grand vision; and other people of ambition and talent must be attracted to it for it to fulfill its potential. What we see here is the start-up group, the founding visionaries committing their energies to designing the blueprints and laying the groundwork. This partnership is the prototype for society or any grouping where the whole is greater than the sum of the parts.',
+        reversePosition: 'Seek stimulation from imaginative individuals to sustain your creative powers. When the Four of Wands is reversed, you may be losing touch with the needs of others; your inherent problem-solving skills could go dormant. You need stimulation and contact with creative individuals of a like mind. Consciously seek it out because it\'s not going to come to you.',
+        advisePosition: 'The Four of Wands in this position supports your good, productive, evolutionary ideas. Concentrate on networking: use your charisma and power to attract like-minded souls so you can significantly increase your sphere of influence -- the more people you can reach, the better. Your enthusiasm empowers your vision, which is thriving with possibilities. As you share more freely what is on your mind and in your heart, others will see themselves in your vision, so you naturally receive approval, support, assistance and abundance. In your own way, you are addressing a universal need.',
     },
     {
         name: '5 of Wands',
         imageUrl: './images/minor/wands/Wands05.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Five of this suit symbolizes struggles caused by ambitious maneuvering and a competitive urge. This could be about someone who is pushing his or her agenda forward at the expense of others. There can be a fine line between demonstrating personal excellence and making others feel like losers. It may be necessary to ask yourself, who is it that really benefits when we all fight so hard for such small rewards? Am I serving a negative, manipulative agenda when I start applying battle metaphors to business? Even when your only motive is to be the best you can be, it is understandable to want recognition for what is fine and unique about you. However, minimize the number of egos bruised in the process or your success will be celebrated alone.',
+        reversePosition: 'When team spirit fails despite all effort, your inner strength can pull you through. When the Five of Wands is reversed there is no way to completely overcome the competitive environment; you are unable to bond with potential partners in a team spirit. You must fall back on your own sense of mission and sense of survival to provide direction.',
+        advisePosition: 'The Five of Wands in this position encourages you to find your natural ambition. Identify what energizes you, what you would fight for and what you are passionate about -- even when you\'re tired or discouraged. Strive to make that the centerpiece of your mission. This is how you find your livelihood and establish your path of service.',
     },
     {
         name: '6 of Wands',
         imageUrl: './images/minor/wands/Wands06.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Six of this suit points to the respect and acknowledgment due to you for your efforts to solve the problems of your community. The image is usually of a victory parade, after the celebrated leader helped troops win a pivotal battle. It took the whole tribe to win the victory, of course, but it was the leader\'s heroism and clarity under pressure that inspired them to overcome. The team is thrilled that the leader led them to victory. This card points to a time to let everyone relax and celebrate -- if you are the leader, let them applaud you. They are seeing their better selves reflected in you -- a victory indeed!',
+        reversePosition: 'The Six of Wands reversed encourages you to agree to take a leadership role even if it\'s uncomfortable. Along with the admiration and privileges of a leadership role comes the pressure of people\'s expectations and a certain lack of privacy. You cannot hold up your good side twenty-four hours a day, so surrender to the reality that you will be more visible and accountable now, warts and all. Adjust your behavior to accommodate this predicament.',
+        advisePosition: 'The Six of Wands in this position advises taking action on your most burning and passionate convictions, no matter what the social consequences. Continue to articulate and define yourself in light of the torch you are carrying. This inspires others to conceive some new ideas of their own. You may find yourself becoming something of a leader. Usually the first person to break away from conventional thought is the one to define a new trend. Under the circumstances, there is a solid need for a fresh voice and vision -- so make your move. Those around you who are ready for change will support your leadership.',
     },
     {
         name: '7 of Wands',
         imageUrl: './images/minor/wands/Wands07.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Seven of this suit generally shows a person who is nearly always successful in working his or her will in the world. This is a person who is truly gifted, standing head and shoulders above the rest. This person is sets standards and sets examples that exceed previous conceptions of what is possible. In historical Tarot, this person would most likely be portrayed as an admired and feared warrior who has vanquished his adversaries against all odds. Such an outstanding feat could just as easily apply to the world of the media, politics or business. Beware of conceitedness that can be hinted at by this card. Being successful does not make you invincible, and it does not protect you against errors! Enjoy your "fifteen minutes of fame" and then get back to your tasks, or your head will swell, to the detriment of your ability to succeed again.',
+        reversePosition: 'Coming to terms with lack of motivation could boost your self-esteem. When the Seven of Wands is reversed you may be actively resisting the expenditure of time and energy required to make yourself useful. You are capable of being a role model but are having trouble accepting the challenge. Until you come to terms with your lack of motivation, you are letting yourself down by allowing your self-esteem to shrink.',
+        advisePosition: 'The Seven of Wands in this position tells you that the time for peak performance is now. Even if slightly unprepared, you may want to push yourself beyond your usual limits, thinking in larger terms and tweaking your competitive nature. Time and effort spent in preparation could pay off handsomely. You might be the one who vaults right over the heads of those who thought they could outdo you. Move beyond rhetoric and verbal challenges. Now could be the moment to prove what puts you head and shoulders above the rest by demonstrating it in action.',
     },
     {
         name: '8 of Wands',
         imageUrl: './images/minor/wands/Wands08.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Eight of this suit often shows a flight of spears or staffs moving through the air in formation, as if a hidden group of archers had let them fly all at once. This can refer to swiftly unfolding events, whether of unintentional or intentional design. There are also versions that emphasize the agricultural cycle, paralleling the yearly crop cycle with the swift growth of children into adults with children of their own. In each case, the emphasis is on the necessity of change and the challenge of keeping up with it. With the turning of the seasons, we are constantly being forced to deal with change and there is no remedy but to live with that in mind. So, get busy -- there is no time to waste!',
+        reversePosition: 'Awaken to the changes that are happening in your life; denial does not serve you. When the Eight of Wands is reversed, it is tempting to deny that a powerful chain of consequences has been unleashed in your life. It\'s very important that you awaken to the changes happening all around you. This is not a good time for you to assume that everything is fine the way it is.s',
+        advisePosition: 'With the Eight of Wands in this position, learn all you can from recent successful experiences. Take note of what worked before and what did not. You possess awareness as to how to effectively apply your imagination to shape the world in productive and aesthetic ways. Thus, the testament to your talents may be revealed for everyone to see and admire. Even if you had to leave it all behind, you know you could start all over among total strangers and succeed once again. This valuable self-confidence makes you free to strike out in new directions and not just cling to past successes and previous accomplishments.',
     },
     {
         name: '9 of Wands',
         imageUrl: './images/minor/wands/Wands09.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Nine of this suit usually indicates a need for rest; some time out to mend wounds and savor victories. Although it may be hard to do, this card would have you leave the field to fresher teammates for now. Release any attachment you may feel to being in a leadership role for now. In the pictured Tarot decks, the protagonist is shown as too exhausted to be effective in defending his gains, yet resisting the suggestion to ask for help or step down. He or she hasn\'t had the chance to totally heal from past blows, and is still up there taking another beating. This is the fix that comes from making oneself irreplaceable. Fight off the maniacal thought that only you can save the day! Stop rejecting loved ones who want to help you.',
+        reversePosition: 'Avoid a situation that seems like a losing battle. Seek new perspective. When the Nine of Wands is reversed, it is time to question your motives. Are you truly defending the high ground because of humanitarian motives? Or are you merely competing with others? If you truly don\'t belong at the forefront when all is said and done, you will not be seen as a hero for obstructing others.',
+        advisePosition: 'When the Nine of Wands is in this position, you have done everything you can to bring a situation to a successful conclusion. The full range of possibilities has been exhausted and all the creative energy that is available has already been put to use. This may be a great time to lay down your concerns and enjoy a rest. There is nothing more to bring to the mission unless you regenerate and restore the energy you have put into the cause. While it is praiseworthy to give all you have for something or someone that means a lot to you, masochism and martyrdom are ill advised. Take a break. No one can fault you for it now.',
     },
     {
         name: '10 of Wands',
         imageUrl: './images/minor/wands/Wands10.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'The Ten of this suit represents an all-out effort, an obsessive commitment to a task which demands everything you\'ve got. The person shown in decks with pictures is in no position to rest until he makes it inside the stout walls of the well-defended castle in the distance. If he fails, he will become prey for the highway robbers after dark. It doesn\'t matter that he\'s overloaded and underfed. With this card, you have to do whatever it takes to get to completion -- nothing can be allowed to interfere.',
+        reversePosition: 'Lack of perspective on your life may impair your progress. The Ten of Wands reversed suggests that you are struggling to get a sense of perspective on the situation. A lack of objectivity may impair your ability to follow through and bring things to closure. Try to rest yourself. Then step back to take another look at the big picture. If you feel too exhausted to work toward long-term goals, rest until your vision clears and you remember why it\'s worth the effort. Clear perspective leads to stronger motivation.',
+        advisePosition: 'The Ten of Wands in this position advises you to remember the true, simple heart of your youth and all the idealism it held. Now may be the time to reach deep into yourself and identify your purest, most wholesome impulses. As you do this, allow your optimistic and honorable side to see what\'s good about the world. Look beyond the challenges, setbacks, disappointments and frustrations you tend to see so easily. As you reawaken your high minded inner child, you will refresh your daily life with a joyful purpose.',
     },
     {
         name: 'Page of Wands',
         imageUrl: './images/minor/wands/Wands11.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'This card is traditionally entitled the Page, but in some modern decks appears as a Princess. This archetype is that of a unique individual, a nonconformist, often something of a bohemian, definitely independent by nature. He or she requires little in the way of affirmation or approval. Perhaps a mischief-maker, often an innovator or inventor, the energy represented by this card will only serve others until he or she figures out how to get others to serve him/her. This person\'s freedom is so important they would rather go as a peasant among strangers than inherit a fortune with strings attached. Don\'t be fooled by this humble appearance. This person is a future captain of industry or world leader, now serving an apprenticeship. These people are sometimes seen planting a staff like a flagpole into the earth in the far off wilderness (where they can start fresh without having to make any compromises). You could think of this card as a wild card.',
+        reversePosition: 'Rather than worry about your image, emphasize the beneficial contribution you could make. When the Page of Wands is reversed, you may be overly concerned with your reputation or image. You don\'t want to be seen as a source of controversy or conflict. Don\'t overlook the positive contribution you could make. It is urgent that someone stands up for peace, compromise and harmony even if these values had been pushed into the background.',
+        advisePosition: 'This card is traditionally entitled a Page, but in some modern decks as a Princess. In this position, this card suggests that you cannot know how to facilitate communication until you have studied your environment. Your task may be to blend into your surroundings so you can gather information and get a clear sense of what is going on around you. Think of yourself as a secret agent for the greater good. In due time, others may recognize the role you play in the transformation from divisiveness to unity. However, right now you are being asked to watch quietly from the sidelines.',
     },
     {
         name: 'Knight of Wands',
         imageUrl: './images/minor/wands/Wands12.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'This character is traditionally called the Knight, but in some modern decks appears as the Prince. Traditionally, this card indicates the energy of an instigator, a fire-starter, a feisty and easily provoked character who is liable to attack first and ask questions later. This energy is quick to anger and enjoys a fight -- so much so that the thought of a diplomatic solution can provoke a secret disappointment! Nevertheless, he sees himself as trying to help, rescuing the world from its madness by imposing his sense of order upon it. His vices are bossiness, paranoia and a tendency towards overkill. Nevertheless, there are times when his energy is perfectly appropriate, like when his assertively protective nature is defending threatened treasures or interfering with dark forces. The trick is to keep a sense of proportion when this Knight unleashes his fire, because he enjoys intense experiences and is always ready to take it to the next level. Once in awhile, this kind of intensity is called for, but on a daily basis it is exhausting.',
+        reversePosition: 'Give the knowledge or opinion of others a fair hearing; it may better prepare you for your path. When the Knight of Wands is reversed, it indicates a powerful desire for change and transformation, which others may neither understand nor agree with. Take time to listen to them and try to comprehend why they disagree with you, even though you are anxious to get moving. Depersonalize the circumstances a little to gain new perspective. If you consider their point of view and give them the benefit of the doubt, you may be better prepared for what you have to do and how best to do it.',
+        advisePosition: 'The Knight of Wands (in some decks, a Prince) in this position advises that you modify your self-image in order to get a sense of yourself as a person of action. No matter what your past patterns have been, it is fully possible to place yourself solidly on the road toward the future. Not only can you get a clear sense of the proper path, but you will also have enough instructions to be self-directing. Necessary skills and resources are available to you, and the time is right for you to act. Once you get started, you may be surprised how easy it can feel, but don\'t be seduced by that feeling. There will be comfortable stretches of the road and there will be distinctly uncomfortable ones. Know that any form of motion is better than no motion.',
     },
     {
         name: 'Queen of Wands',
         imageUrl: './images/minor/wands/Wands13.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'Traditionally, representing the energy of a Queen, this woman represents the natural manager, whose gift is to inspire teamwork and divvy up tasks. She is the one who sees ensures everything runs smoothly. She\'ll be sweating in the sun along with her family or crew, inspiring everybody to keep up and supporting morale with her infectious energy. She is the best kind of manager to have, because she is like a challenging but encouraging mother, who knows you have it in you. She believes in her charges and they work hard to please her. She is not, however, sentimental. Like a good farmer, she views her crops, her animals, even the people who work for her, as necessary resources for the achievement of the higher goal. If any aspect is no longer productive or cost-effective, she can let them go without a second thought. Do not look to her for sympathy.',
+        reversePosition: 'Reveal any hidden agendas before they alienate partners or associates. The Queen of Wands reversed points to a controlling tendency that is no secret, and the people around you have the insight to perceive what is happening. Don\'t think your hidden agenda is undetected, and don\'t deny it if it is brought to light. It\'s more important that your team members trust you than it is to preserve an image.',
+        advisePosition: 'The Queen of Wands in this position reveals a need to hold your place in the chain of command and respect the hierarchy (at least for now). This may not be a time for you to be at the helm, even if you are motivated by a strong dedication to completing a project or overcoming a challenge. A perceived deficiency in leadership may make you want to take hold of the reins, but don\'t do it! Restrain yourself and remain loyal to your higher-ups. Stay focused and energetic. Enthusiastically confront the challenges directly in front of you. Perform in good faith and encourage others to do the same.',
     },
     {
         name: 'King of Wands',
         imageUrl: './images/minor/wands/Wands14.jpg',
-        generalInfo: 'This is general Wands info',
-        reversePosition: 'This is reverse info for wands',
-        advisePosition: '',
+        generalInfo: 'Traditionally representing the energy of a dynamic King, this card represents the classic conquering hero. He\'s a charismatic leader, entrepreneurial and ambitious, always creating new adventures. He does this because he doesn\'t like to stay home or to have to "mind the store" -- he gets to feeling restless and bored with the predictable. If you need a crusader, or someone to take on a big challenge, he\'s your man. He needs a big assignment, and would rather lead than follow. It could be said that he has a bit of an ego, as evidenced in his enjoyment of flattery and praise. A bit of a performer, he overachieves in situations where it will be noticed, but in private he wants to be served and adored like the head lion of a pride. A benevolent dictator, he makes life wonderful for those he loves and just the opposite for those who displease him.',
+        reversePosition: 'The wise use of power is to respectfully recognize the authority of others. When the King of Wands is reversed, there is danger in mistaking empowerment for domination, hence a potential for undermining the autonomy of others. Exercise what you think is the best, most positive use of power. Be on guard against any old tendencies to grab the controls and take over.',
+        advisePosition: 'The King of Wands in this position reminds us that our lives are designed to bring us eventually to a place of self-ownership. An opportunity for self-empowerment is presenting itself to you now. Recognize that through your attitude and the way you express yourself to others, you hold the power over your own experiences in life. You are the determining factor in this situation and circumstances will proceed in the direction that you steer them. Indecision or doubt are not appropriate responses when clarity and confidence are critical. As you take on a bigger role, it will begin to feel more comfortable. Seize the opportunity to influence events, because everything is waiting for you.',
     }
 ]
 const cups = [
     {
         name: 'Ace of Cups',
         imageUrl: './images/minor/cups/Cups01.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'An Ace of this suit in this position generally shows a hand holding up an overflowing cup, which gives forth an endless stream of water, wine, blood or soma for the people\'s refreshment and healing. This card represents an unfailing source of balm for body, heart and soul. It suggests that you can relax into a safety net of love, support and communion.',
+        reversePosition: 'The Ace of Cups reversed warns of a loss of self-esteem, optimism and faith in the abundance that the universe has to offer. Stop to examine what it is that is causing you to lose altitude. It might be the mental food you are feeding yourself. It could be that you are putting too much attention on the outer circumstances and not enough on the nurturing energy that is available to you. Retreat and become harmonious within yourself, until you feel love and trust returning. Reclaim your faith in the abundance of the universe. Make no moves or decisions until you have cleansed yourself of any pessimism and negativity that are haunting you at this time.',
+        advisePosition: 'The Ace of Cups in this position advises you to challenge yourself and discover what is good about every relationship. Practice looking at the world through the eyes of the Divine. Allow your imagination to perceive the spiritual or evolutionary potential in every person and experience. Look with the eye of a loving parent or companion upon the people and things you come into contact with. Make a conscious decision to approve of and delight in even the quirky developments that make the world turn. No one can be perfect at such unconditional acceptance. Still the practice will sweeten your day to day life. Your magnetism will increase and more loving people may enter your life. The whole world will benefit as this becomes second nature to you.'
     },
     {
         name: '2 of Cups',
         imageUrl: './images/minor/cups/Cups02.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Two in this suit signifies a union of souls. This card traditionally describes a romantic relationship, but also includes the idea that all good friendships and partnerships are based on a natural affinity and a deep mutual understanding. As a personal reflection, it can also signify that your mind and your soul are discovering each other, maybe for the first time. This card also symbolizes a karmic tie, often portrayed by a wreath or figure-eight ribbon twining around the two cups. Occasionally you see a symbol referring to the union of alchemical opposites (as in sacred sex), pictured as a long-necked flask twined with serpents, its mouth spouting flames, sometimes with wings. This image is from Alchemy, indicating the refining and mutually completing effect of a true and lasting love.',
+        reversePosition: 'The Two of Cups reversed indicates that you may be investing too much in a relationship. Sometimes this is a signal that you must stop seeking so much validation from others. It may be that your attentiveness to those around you has overtaxed your psyche, and you have started neglecting yourself as a result. Stop conforming to the demands or narrow criteria of your partner or partners. When you undermine yourself in this way, you undermine your relationships too. You may think you are working extra hard to take care of others, but you are actually abandoning yourself. Eventually that will lead to alienation and resentment.',
+        advisePosition: 'The Two of Cups in this position advises you to speak your heart. It may be likely that the person you are trying to connect with feels the same. Still the other needs to hear this more fully. So why not make it clear and why not now? The Two of Cups is the image of the heart making a vow. This card advises that you pledge yourself to this friendship and put your heart on the line. You have nothing to lose and everything to gain. Life is a relationship game. It\'s a great privilege to share with others who are so complementary and compatible.',
     },
     {
         name: '3 of Cups',
         imageUrl: './images/minor/cups/Cups03.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Three of this suit is often entitled Consent, or simply Yes. This card resonates with a spirit of agreement, mutual support, encouragement and teamwork. Often pictured as three women celebrating their connectedness in a dance with lifted cups, it could also be called "sisterhood," a real mutual admiration society. It points to all the benefits of harmonious relationship.',
+        reversePosition: 'The Three of Cups reversed indicates that you may be frustrating the best efforts of those who love you most. You need to ask yourself what is so important that you would place it above the bonds of love and mutual support. This card puts such a desirable face on maintaining the harmony in relationships that there is cause to wonder why you would deprive yourself of such a valuable asset. Try to find a way to let in some of the love and caring that comes to you. Don\'t turn away the possibility of harmony and enjoyable contact.',
+        advisePosition: 'The Three of Cups in this position advises that you tune in with your family and fully inform them about what\'s going on with you. Let them add substance to your ideas with their talent and imagination. Think of this occasion as a celebration, where their support helps you find success in your work. There may be something here for everyone to contribute. Put yourself in the loving hands of your family connections and your trust will be well rewarded. The synergy between you could enhance each individual\'s talent and creativity. You will love the results!',
     },
     {
         name: '4 of Cups',
         imageUrl: './images/minor/cups/Cups04.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'A Four in this suit refers to a restless time, where a person may have become dissatisfied with life, and emotionally uncomfortable. Feeling stagnated, longing for change, the heart ponders its options ... as it should.',
+        reversePosition: 'The Four of Cups reversed indicates that you may not be making the reasons for some reluctance you are feeling clear to yourself or others. Some part of you is resisting the flow of events, but you are not admitting your own part in this. It may be manifesting as a sort of foot-dragging or unmotivated, passive-aggressive stalling. Recognize this mood as a symptom of a deeper dissatisfaction and come clean to yourself about your real feelings. There is something to be learned.',
+        advisePosition: 'The Four of Cups in this position wants you to take a clear look at how stalled or distracted you have become. You may have been bogged down by negativity, hopelessness or a sense of limitation. It is not to your advantage, however, to see the world through such a narrow lens. Cut through some of the forces that undermine you, causing you to feel incapable. Sometimes you have to define what you are "for" by defining what you are "against." Decide that you are not as heavy as the cup of earth, not placid as is the cup of water, not turbulent as is the cup of air. Rather, now may be the time to be as aroused as is the cup of fire. This arousal may constitute liberation from the circumstances that may have brought you here.',
     },
     {
         name: '5 of Cups',
         imageUrl: './images/minor/cups/Cups05.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Five of this suit traditionally portrays the mess that is left after an emotional upheaval, such as a tantrum or fit of rage. Consequences run the gamut from a hangover and lost wages, to abuse and ruined relationships. This card is also sometimes called Inheritance, suggesting the cross-generational legacy of such tragedies. Violent family patterns magnified to a much larger scale can become war',
+        reversePosition: 'The Five of Cups reversed represents a paradoxical situation wherein what seems like the worst thing that could happen actually creates a better circumstance. Any incoherent fear, once expressed and faced, can be transformed into a manageable issue. Then you are liberated from the dread of negative anticipation, wondering if the situation will blow up in your face. You are freer to act authentically as a result of this energy turn.',
+        advisePosition: 'The Five of Cups in this position advises you to tighten your belt, make do with less and show more appreciation for the things you do have. If something is truly yours, it cannot be lost. When you are experiencing feelings of loss, it may be because of an inappropriate emotional attachment. If you promise things that you cannot deliver, then you might be setting yourself up for disappointment to follow. In overestimating our abilities, we are forced to face our limits. Be grateful that as the cups fell, you lost only three of the five. Two are still intact, pristine and full of sacred energy. Do not cling to the setback. Focus on the potential.',
     },
     {
         name: '6 of Cups',
         imageUrl: './images/minor/cups/Cups06.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Six of this suit generally represents a refreshing openness and innocence, a willingness to learn and an optimism that things will get better as we advance together in understanding. The traditional title, The Past, reminds us of our original nature, when we were young and enthusiastic, when anything was possible and the future was an open book. We are to remember that this same freshness, those new possibilities, are always available to us, even now.',
+        reversePosition: 'With the Six of Cups reversed, you can finally close accounts with the emotional undertow that has been part of your life. You can now revisit those wounded places calmly, without the fear that you will be drawn back in. There is no lingering emotional residue or entrenched nostalgia remaining. You have finally digested those past experiences. They can now be put to rest.',
+        advisePosition: 'When the Six of Cups is in this position, take a look at what is repetitive or cyclical in your life; what links the present situation to the last such experience. A new beginning requires new energy and concentration. Until you analyze the past, you will continue to drift with its current. Distill everything that is worthwhile from your memories and get as much value from it as you can. Then use this as motivation for change. Make the very best use of hindsight, employing new strategies and trying new angles on these recurring issues.',
     },
     {
         name: '7 of Cups',
         imageUrl: './images/minor/cups/Cups07.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Seven of this suit typically refers to works of the imagination, the use of dream and vision to invent a future different than the life one is currently living. This card reminds us that our outcomes are not set in stone. We can raise our hopes and expectations and upgrade our results. Do not be fooled by the title Fantasy which this card is sometimes given -- this card indicates the truly magical quality of awakened imagination.',
+        reversePosition: 'The Seven of Cups reversed reminds you to reawaken to playfulness, joy and curiosity. Perhaps a lack of purpose is having a deadening effect. It\'s almost as if it is saying that you have forgotten how to dream. As a result, mind and imagination can become dry as a desert where only the harsh light of material reality can penetrate. In such a case, there is no golden glow, there is no higher purpose or magic spark. This is a state of mind that no one should tolerate for long. Find something that restimulates your endorphins -- whether taking a long walk and breathing deep, buying a bouquet of roses and lilies for your kitchen table, or making contact (perhaps through art or meditation) with something good, true and beautiful. Take that step immediately and relieve yourself of the deadening flatness.',
+        advisePosition: 'The Seven of Cups in this position advises that you relax your mind and open to the dreams and imaginings your inner child loves to entertain. Allow yourself to imagine a truly positive outcome for this situation. Perform an exercise in creative visualization by relaxing your guard and letting go of your fears. As the dreamscape unfolds, your electro-magnetic chemistry is stimulated to a point of achieving greater confidence in yourself and in what you are doing. Even if it\'s only a temporary break from your fears, this is a helpful exercise because it gives your psyche and body a dose of unlimited thinking and optimism. Think positively -- the results could truly be amazing.',
     },
     {
         name: '8 of Cups',
         imageUrl: './images/minor/cups/Cups08.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Eight of this suit is often used to signify a disappointment, emotional setback, betrayal or injury to the heart. Some Tarot decks illustrate this principle showing a young woman who has just been molested and then cast aside by a stranger passing through her village. His heartless act has left her vulnerable, with potentially drastic consequences. This is a difficult card, but a realistic one, insofar as it warns against misplaced trust and unguarded vulnerability.',
+        reversePosition: 'The Eight of Cups reversed suggests that you may have experienced a terrible event, yet you have somehow not allowed it to ruin your life. You don\'t indulge in the kind of emotional agony this card generally represents, which may be a sign that you are more resilient than others; you bounce back from setbacks. Under the circumstances you are doing fine. You are learning to transform disappointments into a will to change. Your resilience converts adversity into positive accomplishment.',
+        advisePosition: 'With the Eight of Cups in this position, look inside and recognize the part of you that still nurses an old grudge from a past injury or trauma. For the most part, your forward-looking self has gotten up and moved along. You are getting on with your life. There may still a part of you, however, that holds out and resists the healing. Are you nursing old wounds from painful losses of faith and trust? If so, now may be a good time to scrutinize your current motives. See if you are still being influenced by the part of yourself that cuts short your enthusiastic, optimistic impulses. Do not deny this pessimistic tendency. Failing to recognize the truth only causes repression that flares up in another part of our psyche. Instead, seek to understand and accept the hesitation and the fear you may feel, and come to terms with them. Then you can put some old emotions in their rightful place--out of the way.',
     },
     {
         name: '9 of Cups',
         imageUrl: './images/minor/cups/Cups09.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Nine of this suit is sometimes titled Happiness, but it is also known as Victory. The image on several versions of this card often shows an innkeeper doing a brisk business and feeling very happy about it all. The rewards of high achievement are not all monetary, however. This happiness also refers to the feelings of fulfillment that come from good service to the community and support of one\'s family, as well as gratitude for all the blessings in one\'s life.',
+        reversePosition: 'The Nine of Cups reversed suggests that you are getting what you thought you wanted, but it\'s not what you really want at all. The defect may not be in the thing itself, but in the surprise of discovering that your dream come true doesn\'t make you feel like you expected it would. This is an essential lesson in life. When you set a goal, specify how you want it to feel in your life, not just what you want to be, do or have. You will get much more fulfillment from your manifestations if you go about it in this way.',
+        advisePosition: 'The Nine of Cups in this position advises that you open yourself to circumstances around you. There may be no need to manage a situation that does not require a lot of control or leadership. The tone of the moment is heartfelt and bonded. It is nurturing. Open up and choose to be receptive. Proceed from your heart, relying on your intuition. This is your truest source of information right now. Allow yourself to be attracted to what feels supportive. Avoid what feels harsh, critical and judgmental. If this requires that you change your style, so be it. The results of being intuitive are generally far superior to the results of being emotionally guarded and overly rational.',
     },
     {
         name: '10 of Cups',
         imageUrl: './images/minor/cups/Cups10.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'The Ten of this suit traditionally signifies family and community, often showing a celebratory scene including many generations, crowned by a rainbow signifying the end of hard times. See this vision -- love and support extending in all directions -- a huge emotional safety net for everyone.',
+        reversePosition: 'The Ten of Cups reversed suggests that a group\'s collective good will is damaged and its safety net is fraying. Personal judgments and rejection abound. Things are being said and done that will be regretted later. Someone has to make the first move in a more positive direction, leaving judgment and criticism behind. Mediation is called for in order to re-establish some mutual trust and support. This person will provide an example for others to follow -- or the team endeavor will dissolve. The storm which precedes the rainbow is not yet over.',
+        advisePosition: 'With the Ten of Cups in this position, prioritize teamwork over your personal goals. Everyone needs to feel they made a contribution. The crew needs to feel they are all in this together, and everyone needs to be rewarded when the ship comes in. It\'s essential to follow a teamwork approach in order to maximize the benefits for yourself. The good will that will emerge from such an approach will last long after the project is over. You will be generously rewarded later if you take a selfless approach at this time.',
     },
     {
         name: 'Page of Cups',
         imageUrl: './images/minor/cups/Cups11.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'This card is traditionally entitled the Page, but in some modern decks appears as a Princess. In this suit this card represents a poetic, mystical, emotionally open young person, still tender and idealistic, given to flights of imaginative fantasy. This energy is exquisitely refined and fine-tuned. It may be that a sense of being grounded in reality has not yet entirely set in, such that he or she is easily tossed about by external forces and events. This person must work to achieve a stronger will and a more calculating mind, to balance and protect all that wonderful sensitivity.',
+        reversePosition: 'When the Page of Cups card is reversed it suggests that those around this Page, or Princess, have been tolerant of his or her self-indulgent feelings. In reality, they don\'t owe you this service. If you impinge upon their good nature too much, you may be unpleasantly surprised by the results. Be sure you start making their desires and well-being a higher priority.',
+        advisePosition: 'The Page of Cups (in some decks, a Princess) in this position advises you to study the best ways to be of service. Strive to discern what would give more pleasure, comfort and emotional security. Then, provide it. Understand that what is happening has little or nothing to do with you personally. The best you can do is to offer support and listen closely. Make sure you understand what is needed and serve the situation with loyalty. Look at individuals around you as the embodiment of the Divine, and try to fulfill each one\'s needs. Be unconcerned with the outcome. Later you will understand why you needed to be in this position.',
     },
     {
         name: 'Knight of Cups',
         imageUrl: './images/minor/cups/Cups12.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'This card is traditionally entitled the Knight, but in some modern decks appears as the Prince. Traditionally, this card in this suit has pictured a homecoming -- portraying a return to his true heart\'s home after a long journey. Like the prodigal son, he may be returning after long estrangement from all he holds dear. His taste for adventure is exhausted -- there is no more romanticizing of battles or travel in strange lands. Now he wants to go where he will be recognized, wanted and welcome -- where he doesn\'t have to fight at every turn. He has the attitude of one who has become older and wiser, the prodigal son.',
+        reversePosition: 'The Knight of Cups reversed continually looks for excuses or a way to blame his problems on someone else. He is not mature enough to realize that until he takes personal responsibility for the way things are in his life, he will continue to add to conflict rather than exercising his natural helping and healing powers.',
+        advisePosition: 'The Knight of Cups (in some decks, a Prince) in this position advises that you jump into your new situation with both feet. Get involved with what is happening in the present. Think no more about the route you had to travel to get back here. There is no need to be cavalier about what seems familiar. Look deeply at the underlying values here. You may find that they represent something you mistakenly rejected in the past. Be humble enough to look at things through new eyes. At a deep level, your heart and soul are being nourished. Don\'t be tempted to run away again -- this is where you belong. Your entire journey was designed to bring you home with new appreciation.',
     },
     {
         name: 'Queen of Cups',
         imageUrl: './images/minor/cups/Cups13.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'Traditionally, representing the energy of a Queen, this card traditionally portrays a sensitive, vulnerable, omniscient woman who offers unconditional love. She is supremely empathic -- sometimes to a fault. Her caring nature exposes her to everybody else\'s emotions and needs. This person sometimes has difficulty identifying her own best interests in the midst of her responsiveness to others. As a result, she sometimes appears slightly unfocused or perhaps overwhelmed, filled as she is with "spirits". She represents the Grail Queen, as well as the Goddess of the Family.',
+        reversePosition: 'The Queen of Cups reversed suggests that you stop all efforts to dull your pain or distract yourself from it. Looking the other way is not going to help you anymore. Neither is trying to rationalize away or control the situation. You must be emotionally honest. Be honest with yourself, and others who may be involved in what you are going through. If you continue to anesthetize the hurt, it won\'t rise to the surface and be released. Coping strategies that rely on distracting yourself from reality only serve to entrench the problem.',
+        advisePosition: 'The Queen of Cups in this position encourages you to be generous, kind and forgiving. Support the ability of others to get what they want. Nevertheless, remember as with anyone in a caretaking position, you have a fine line to walk. You do not want your loved ones or teammates to become complacent or dependent, as if they can take your support for granted with little or no consideration for your needs. Cultivate an awareness of love as freely giving and receiving. In the process, help clarify the important difference between receiving energy and taking it. Do not allow your willingness to give be misunderstood or abused, as if it were a weakness.',
     },
     {
         name: 'King of Cups',
         imageUrl: './images/minor/cups/Cups14.jpg',
-        generalInfo: 'This is general Cups info',
-        reversePosition: 'This is reverse info for Cups',
-        advisePosition: 'This is advise info for Cups',
+        generalInfo: 'Traditionally, representing the energy of a King, this card usually portrays a watery background, with a man seated on a throne, holding the Cup of Mystery in his hand. Occasionally, his cup is fulminating like the mouth of a volcano, emanating light, but never boiling over. The man in this card doesn\'t need to speak to communicate strength, passion and commitment. Sometimes he is robed like a priest or shaman. Intense and intuitive, he is a force to be reckoned with.',
+        reversePosition: 'The King of Cups reversed is bitterly holding a grudge or some hatred -- withholding his natural propensity for forgiveness and blessing. This reversal creates an emotional vacuum around him and deprives him of serenity. His prodigious powers of empathy and compassion are wasted in favor of rehashing the past and feeling sorry for himself. Dispel the storm clouds, admit the hurt, forgive and embrace. Let the sunshine of peace and benevolence back into the picture.',
+        advisePosition: 'The King of Cups in this position advises that you closely examine your conscience and bring your personal mission into alignment with what is best for everyone. You can then step into your community or situation with integrity and an ability to communicate the highest wisdom. As this sweetens the environment, others will be inspired to raise their own motives and intentions to match yours. You will be providing an important kind of leadership that uses strong reassurance to help everyone work together. The most persuasive thing about you is the example of generous behavior that you exhibit -- much more powerful than preaching alone.',
     }
 ]
 const swords = [
     {
         name: 'Ace of Swords',
         imageUrl: './images/minor/swords/Swords01.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'In the image of this Ace, a single upraised sword represents your prime motive or guiding ideal -- the vision that guides you through life\'s changing fortunes with single-minded clarity. The sword is sometimes shown piercing a silver and/or laurel crown, a symbol of optimism implying evolution, progress, a sense of hope and victory. It is occasionally shown pointed downwards -- a darker message, which refers to sacrifice, challenges and a critical environment.',
+        reversePosition: 'The Ace of Swords reversed suggests that you are not allowing yourself to see the one thing that matters most. You may be using reason to create rather than cut through obstacles. Stop clinging to illusions. Look again at your biases, the preconceptions you bring to situations. Ask yourself how you could represent circumstances in a less self-serving manner and perhaps get a better outcome. Reexamine your perspective so you can help break down barriers.',
+        advisePosition: 'The Ace of Swords in this position advises you to be steady--you are about to reach your objective. There may be no need to hesitate. Just concentrate on making your impact. This could be your moment. The arrow is pointed straight at the target. Your eye is keen, your grip is firm. Let that arrow fly! If you set aside distractions and hit your mark, you will be rewarded with insight and clarity. Remember that this is not the time to hold back, worrying about the consequences. When you access this level of truth, you are very likely to cut through all illusion and nonsense.',
     },
     {
         name: '2 of Swords',
         imageUrl: './images/minor/swords/Swords02.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'The Two in this suit usually represents conflicting ideas or visions. These must be reconciled by communication in order to arrive in a harmonious place or to complete strategic negotiations. Mixed signals prevail. While they may be appearing to try to communicate, opposite sides are missing each other entirely, with possibly drastic consequences. In the best case, a frank discussion would clear the air and serve both sides, but one cannot expect that in every instance where this card appears.',
+        reversePosition: 'When the Two of Swords is reversed (i.e. upside-down), it suggests creative disagreements that can lead to the realization that two heads are better than one. You have the capacity to create synergy or at least provide common ground where argument once prevailed. It is precisely the moment when you think that you are absolutely right that you need the views of others the most. Rather than think you have all the answers, gather input and feedback.',
+        advisePosition: 'The Two of Swords in this position advises that this may not be a good time to make a decision. Neither allow others to push you beyond your boundaries, nor permit yourself to act impulsively. You need to fully assimilate the situation before making any moves -- even if not having a solution as soon as you want causes tension. Have patience. There are circumstances in which action is better than non-action. This, however, is not one of them. Remain silent as much as possible and allow things to settle. A little meditation can help you achieve greater objectivity. You do not have enough information, as all the evidence hasn\'t come in yet.',
     },
     {
         name: '3 of Swords',
         imageUrl: './images/minor/swords/Swords03.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'Traditionally, the Three of Swords signified separation or the breakup of a significant relationship, including the tragic emotions that come along with such an event. Some cards show the horizon filled with storm clouds and flashing lightning. The positive side of this card would be the ending of draining or frustrating associations, to become free again. One message this card brings is to cut some things loose. In spite of sentimental memories and emotional attachments, we need to let go of relationships that either cannot live up to their promise or have outlived the pleasure and support we once found in them.',
+        reversePosition: 'The Three of Swords reversed suggests that a storm is clearing, feelings are mending, communication skills are improving, accusations and paranoia are diminishing. The necessity of conflict seems to be draining away, a change that is worth being grateful for, even though some challenges may still arise from this episode.',
+        advisePosition: 'The Three of Swords in this position advises you to strike out on your own. Become more independent. Separate yourself from people and forces you do not feel compatible with. Grow a thicker skin. Use your creativity and imagination and seek out situations where the way you see things makes sense to those around you. Move towards those who can embrace and appreciate your talents and all you have to contribute.',
     },
     {
         name: '4 of Swords',
         imageUrl: './images/minor/swords/Swords04.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'A Four in this suit sends a message to take some time out, surrendering worldly concerns and retreating to a sheltered place of serenity away from the hustle and bustle. The oldest Tarot card images suggest a visit to the tombs of our ancestors, a place to contemplate your mortality and breathe in the dust of those who brought you here. A vision quest or pilgrimage to one\'s own center allows us to contemplate our roots, values and goals. Here you will see your place in the flow of time ... and unfolding generations.',
+        reversePosition: 'The Four of Swords reversed suggests that even though solitary contemplation can be a great pleasure, it should be balanced with appropriate interpersonal communications. Isolation in this situation can, in some cases, be counterproductive. It may be necessary to seek help or counsel to intervene with an energy-draining pattern. Try to supply yourself with enough human contact, preferably of a therapeutic or, at the very least, a supportive kind, so if you get stuck in an emotionally painful position, you will have a safety net in place.',
+        advisePosition: 'The Four of Swords in this position strongly urges that you keep your own counsel in this situation. There may be too much fear and hostility in the environment for you to be heard. It might be that your ideas are not ripe enough or that you are not ready to listen to feedback from others. If you spend more time in contemplation, you may successfully disregard the emotional occupations and biases of others. For now, closely observe inner events. The time for sharing will come later.',
     },
     {
         name: '5 of Swords',
         imageUrl: './images/minor/swords/Swords05.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'Traditionally, the Five of this suit references the grim and sobering process of cleaning up the battlefield after a conflict. The war as a whole has not been won or lost yet, but in this skirmish there were grievous casualties. This card admonishes the loser to study carefully what went wrong, so that a new strategy can be devised and more setbacks forestalled. There is a need to regroup and rethink the game plan, discover your blind spots and weak links, and take corrective measures before getting back into the field for another round. In these modern times, when the battle is more often being waged with words, laws and contracts instead of weapons, we have even more reason to examine our approach, our style, strengths and weaknesses. If we have underdeveloped communication skills or lose our objectivity in tense moments, our ability to reach our goals and dreams will decline. But, if we avoid letting ourselves be haunted by the misfortunes and detours that inevitably befall us, we will go on to achieve those goals. Do not obsess. Try to learn something.',
+        reversePosition: 'The Five of Swords reversed suggests that you are finally gaining some mastery over competitive or combative impulses. This suggests that you may be outgrowing tendencies towards being automatically judgmental or critical. If this is true, you are successfully letting go of that part of your personality which tends to magnify others\' flaws and weaknesses. Much to your credit, you are using your life force in a more creative and positive way. Having overcome conflicting impulses, you now use your energy in a positive way.',
+        advisePosition: 'The Five of Swords in this position advises you to prepare yourself for disappointment over how your fellow humans are setting their priorities. It seems that the lower end of human nature may be eroding good will in the current situation. Due to a strong cultural trend toward scarcity thinking, a "me first" outlook prevails. If this means that you need to develop a thick skin or carry your sword of truth closer, then do so. Try not to be too quick to anger or jump to conclusions. Just because others may have a pessimistic sense of the world, their reality does not have to undermine yours. There is certainly no point in struggling or competing with them. Your challenge now is to learn how to sidestep confrontation and evoke a more evolved response from people. At the very least, be assertive about setting boundaries for yourself.',
     },
     {
         name: '6 of Swords',
         imageUrl: './images/minor/swords/Swords06.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'The Six of this suit has generally been associated with the objectivity of scientific method, employed through the generations to sift fact from superstition, build facts into theories, and theories into laws which we can trust and use to improve our lives. One early title for this card was The Navigator -- one who has learned enough about the relation between the Earth and the heavens to be able to set a course across trackless oceans and arrive at a chosen spot on distant shores. At the time of the first Tarot decks, this skill was considered akin to magic, so few were the individuals who understood the principles involved. So the person who draws this card is being typified as a person with special knowledge, an insight into sophisticated techniques that may be powerful enough to effect a rescue in a dangerous time. Other related titles that are common to this card are The Path (out of danger) and The Way Through.',
+        reversePosition: 'When the Six of Swords is reversed, you are not using your rational, scientific, systematic, logical mind to its fullest potential. As a result, you are compromising your objectivity and limiting your perception of possibilities in the situation. Make an effort to regain objectivity and confirm your original goals. Try moderating your emotions while increasing mental discipline and focus; this will enable you to return to the fruitful pursuit of your plans.',
+        advisePosition: 'The Six of Swords in this position reminds you that time is of the essence. You\'ve seen the big picture, and good ideas have occurred to you about what needs to be done. Now it is necessary to take action. There may be no more time for debate. If the game plan has become clear, your next step could be to commit yourself to pursue changes that will lead to improvement. Overcome the tendency to get distracted. You do not have time for approval seeking. Once you initiate action, others will be grateful for your clear thinking and quick reflexes. It\'s a special gift to be able to navigate in times of rapidly changing and unpredictable circumstances, when a cool head and right timing are most essential.',
     },
     {
         name: '7 of Swords',
         imageUrl: './images/minor/swords/Swords07.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'The Seven of this suit typically refers to mental preparedness, acquired through the use of imagination, including the rehearsing and visualizing of desired results. This card represents the positive mental habits of a natural winner. The image most often associated with this card is that of a canny warrior who has infiltrated into the enemy camp on the eve of a fateful battle, checking out their preparations and stealing their swords. Such a move is guaranteed to demoralize the enemy and undermine their performance in the upcoming confrontation. Putting it in modern terms, one who draws this card needs to work smarter, not harder. Think long and deep, study all the angles and put yourself in the shoes of your competition. As a result, you will have such a thorough grasp of the whole situation that there will be no surprises -- and no excuses for anything but success. Skillful preparation justifies the optimism of the natural winner.',
+        reversePosition: 'When the Seven of Swords is reversed it reminds us that even heroic effort sometimes does not fully succeed or goes unappreciated. If you have done the best you could do and responded to the calls of conscience appropriately, you are still a noble soul. When situations resist being helped, don\'t blame yourself for setbacks. At least you know in your heart that you gave it your best effort.',
+        advisePosition: 'The Seven of Swords in this position suggests that deep within you already know exactly what has to happen. You know what steps to take and what order to take them in to bring about a desirable outcome in this situation. You may have enough of an overview to see how to advance through the maze and achieve your goal. Continue to envision unobstructed success. Even as the path you are walking changes and the circumstances around you obscure your view, keep the desired outcome clear and sharp in your mind. You will quite likely reach your goal and gain tremendous self esteem in the process.',
     },
     {
         name: '8 of Swords',
         imageUrl: './images/minor/swords/Swords08.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'Often called "The Test," the Eight of this suit usually pictures a warrior running the gauntlet, subjected to harsh examination, who finds out just how tough he or she is (or isn\'t) in the process. Life provides us with plenty of experiences that put us in situations of close scrutiny -- whether it\'s an entrance exam, a decisive job interview or even the tough conversations that follow upon a breach of trust in a close relationship. Sometimes the challenge or obstacle course has nothing to do with other people, as when an inventor has to face the question "Does it really work?" or when the aspirant has to decide how badly he desires to go through some sort of initiation. This card shows what happens to that great idea in real time, where the rubber meets the road. The Test represents your chance to vindicate the time and energy spent in getting ready for a big moment. In most cases, you will either pass or fail, with little in the way of available middle ground.',
+        reversePosition: 'When the Eight of Swords is reversed, there is a tendency to rationalize, justify and project blame onto others. Be sure you are not doing that. Judge yourself by the standards you hold your adversary to, before you get caught in a trap of your own making. Focus your inner dialogue and your conversations with others on what you can do to produce positive change. Inspire others to see the high ground and join you there. You can\'t complain about the bad attitudes of your adversaries if you have one too.',
+        advisePosition: 'With the Eight of Swords in this position, you are being reminded that every setback you experience is a teacher awakening you to renewed effort. This is a learn-by-doing situation; there is no formula that guarantees outcome. You can be sure, however, that an open-minded and optimistic attitude will serve you better in the face of surprising developments. Be willing to make the rigorous effort that is being called for now. Perform wholeheartedly, with good faith and hopefulness. As such, you\'ll forestall bickering and criticism, prevail against negative forces and overcome the demons of doubt and resistance. Get excited about your challenges; be confident that you have what it takes to improve the situation. If you do your internal homework, the external situation will open up for you.',
     },
     {
         name: '9 of Swords',
         imageUrl: './images/minor/swords/Swords09.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'The Nine of this suit has a special resonance with the Middle Ages, because it figures the plight of a woman who is alone in the world, during the centuries when women had no personal rights, no ability to inherit property or use the law in their own defense. We generally see her sitting up in bed weeping, grieving and in fear of abandonment because of her vulnerability, wondering what will happen to her now that her protector (father, brother, husband, or son) is gone. The swords above her head may indicate that the loss has come through some cruel conflict, the outcome of which has left her behind as chattel, the spoils of war. Really what we are looking at is the price of pride, which creates losers as a side effect of glorifying winners. The woman in the picture represents the concerns of the heart, the damage to the soul and to vulnerable ones, when the ego-mind becomes so invested in control and domination that it does not count the human costs. A sensitive, subtle, heartfelt approach to nature (the "feminine") is trampled and thrown aside in service to a "winner takes all" mentality.',
+        reversePosition: 'When the Nine of Swords is reversed, it generally indicates an opportunity to wake up from a long dark period of depression and negativity. Some long dark period is becoming illuminated by optimism. You are finally seeing a light at the end of the tunnel. This is a tremendous breakthrough, and it\'s a blessing when you turn negative thinking around -- with the power of renewed hope and optimism.',
+        advisePosition: 'The Nine of Swords in this position advises you to confront your fear of being alone and acknowledge the different limits you may have put on yourself because of that fear. In the name of being safe, you may have adhered to lower standards than you are capable of achieving. If so, then you may have resisted striking out on your own. Perhaps you have bargained away creativity and joy in order to avoid being challenged. These kinds of tradeoffs never work. This could be a time to cut your losses. If so, recognize how much time and energy you have sacrificed to a way of being that\'s not right for you. If you can do this you will look back at this time in your life as a turning point. This may be an opportunity to heal as you shed a heavy burden that weighs you down.',
     },
     {
         name: '10 of Swords',
         imageUrl: './images/minor/swords/Swords10.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'The Ten of this suit represents finality, the end of something. As is easy to grasp from the picture in many decks, there is no hope for revival here. A limit has been reached, a line has been crossed and there is no turning back. In some situations this may be felt as a tragic loss, but it often brings with it a paradoxical sense of release and closure. The waiting and wondering are over. There is no more ambiguity. You can rightly let go and move on, as there is no more progress to be made here. Emotionally and psychologically, this card appears when one is exhausted and used up, burnt out by the effort of caring and responding and trying to make a difference. When a person feels this way, they have reached burnout and can no longer be held responsible for anything, and therefore can be forgiven for caving in or ceding the fight. The simple instructions are: "Go no further along these lines!"',
+        reversePosition: 'The Ten of Swords is reversed suggests that you may have been over-dramatizing your predicament. In an attempt to get sympathy and understanding from others, you have begun to believe your own stories and excuses. Ask yourself what you would do if there were no one around to sympathize with you. Would you be making a faster recovery? If you reframe your situation to emphasize the chance to start fresh, things won\'t seem so bad. Consider the possibility that you are indulging in drama; take a more accurate look at your situation.',
+        advisePosition: 'The Ten of Swords in this position advises that you lay low for a while. Don\'t make a move. Keep yourself as safe as possible until the drama, even the possible trauma, plays itself out. Once the turmoil dies down, then you can assess the damage and start to make repairs. The situation can be compared to a hurricane moving through the neighborhood. You can\'t be sure whether it is going to pass over a corner of the field or whether it is going to slam into your house. In the face of such unpredictability, protect yourself, hope for the best and wait it out. Sometimes, an extreme turn of events serves as a pressure relief valve for all the unexpressed and unresolved energy that had been building up. Trust the process even though things may seem pretty drastic right now.',
     },
     {
         name: 'Page of Swords',
         imageUrl: './images/minor/swords/Swords11.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'This card is traditionally entitled The Page, but in some modern decks appears as a Princess. The traditional interpretation is about a messenger, an emissary or liaison between separate camps, charged with faithfully representing one side\'s communications to the other. Because of this role, we do not think of this person as a servant, but rather as a diplomat, facilitating sensitive negotiations, often under difficult conditions. This person is acting as the eyes and ears of her patron, and so she is sometimes referred to as The Watchman. Even kings are powerless if this messenger chooses to use her access to sensitive information for her own gain, as is implied by her other name, The Spy. She could even be working as a double agent, playing both sides against each other to serve her own agenda. Her title is really camouflage in itself, serving as protective coloration so she can move among the people unrecognized, collecting information anonymously. Her vigilance often conceals an ulterior motive. She is a watcher who must herself be watched, because she dreams of someday taking matters into her own hands, preempting the plans of her employers.',
+        reversePosition: 'When the Page of Swords is reversed, it may be that one\'s critical tendencies are given too much leeway. Although you may declare a need to state the truth, a primary urge may be to recount another\'s shortcomings. Analyze your possible prejudice, instead of the weakness of others. Don\'t take a stand against another until you have cleared any feelings of resentment or a punitive motive -- or else your attitude problem might undermine the truth of your message. Your best work is done when you are most objective. An urge to be overly discriminating destroys objectivity and can lead to conflict.',
+        advisePosition: 'When the Page of Swords (in some decks, a Princess) is in this position, the situation requires subtle change in order for it to be brought to the highest good for all concerned. In contrast to times when one can best serve the greater good by being visible and heroic, this is a time when you must keep your own counsel, cover your tracks and stealthily accomplish what would be impossible to complete without privacy. Reduce your profile and increase your anonymity, no matter how your self-image might suffer. Although it would be gratifying to accomplish what needs to be done and be aboveboard about it, that cannot be a priority at present.',
     },
     {
         name: 'Knight of Swords',
         imageUrl: './images/minor/swords/Swords12.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'This card is traditionally entitled The Knight, but in some modern decks appears as The Prince. Traditionally, this card portrays the restless mind, aroused by thoughts of offense and defense, storming around searching for a target to pounce on. He often feels slighted, has a chip on his shoulder and bristles with a hostile attitude. His usual method is to look for someone to blame for his irritation. Furthermore, in an attitude of righteousness, he may assign himself the job of correcting the offender. Jumping easily to conclusions, he shoots first, asks questions later and is therefore often guilty of overkill. This is not to say that he does not have his heroic side; a single-minded combativeness can have its value. However, even when he is doing the right thing, he is likely to be doing it for the wrong reasons. Apt advice for this card is to deeply question your motives for what you are thinking about doing. Forethought will assist you in discriminating between righteous and unrighteous causes. Control any traces of impulsive judgement! Occasionally you will notice in the detail on the card, that the person can be a woman rather than the expected man. There is some evidence that the tradition of knighthood included a certain number of "anonymous knights" who took mythic names and veiled their true identities. Living on the road with few or no servants, they served as freelance defenders of travelers, champions of the little people against the exploitation of both highway robbers and the wealthy classes. Odds are that some of these knights-errant were camouflaged women, and that idea is preserved with the traditional representation of the Sword Knight.',
+        reversePosition: 'When the Knight of Swords is reversed, fear of conflict is so powerful that you will bargain away all that is meaningful just to get through, or out of, a tough situation. You will say what you don\'t mean, promise what you can\'t deliver and hope to be saved by a miracle, just to see yourself delivered from a stressful time. When you learn to tell the simple truth from moment to moment, you will have no more use for this reactionary behavior that is invariably followed by shame and regret.',
+        advisePosition: 'The Knight of Swords in this position advises you to remain open to conflicting ideas instead of surrounding yourself exclusively with people who agree with you. This Knight is most effective when testing his ideas in a debate. Emulate his ability to communicate successfully by keeping your conversations impersonal and humorous so no hurt feelings are provoked. Practice your negotiation skills so you will be in shape for imminent diplomatic challenges as they arise. A sparring partner could help you learn to control impulsive comments and stem your urge to be right at the expense of others being wrong.',
     },
     {
         name: 'Queen of Swords',
         imageUrl: './images/minor/swords/Swords13.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'Representing the energy of a Queen, this feminine power was traditionally known as a widow, crone or divorcee. In modern times, she can be viewed as a model of self-sufficiency, independence and intelligence. She often has extremely high standards due to her subtle sensitivities, which can be perceived by those around her as being critical or hard to please. Her true motive is to refine the world, to upgrade peoples\' understanding -- so that everyone can have the space they need to become fully themselves. She is not interested in conforming. She is too intelligent to be confined to the role of housewife or nursemaid, although she is perfectly competent in those areas. She chooses her associations (or her solitude), and is seldom caught up in dependent relationships -- at least not for long. Her intelligence is not always the most comfortable to be around, but she can be counted on to see through superficiality and point to the truth of a situation.',
+        reversePosition: 'When the Queen of Swords is reversed, it indicates a propensity for denying your deepest feelings. Somewhere you decided that speaking up for the emotional truth is selfish and unattractive. As a result, you are prejudiced against your own needs. It is not a flaw to have a heart; it is a flaw to ignore it. Show some compassion for yourself, and in so doing help your loved ones love you better. Don\'t isolate yourself. Have compassion for yourself. Serving your own feelings and needs is appropriate and necessary.',
+        advisePosition: 'The Queen of Swords in this position advises that you refrain from remaining dependent on others at this time. Instead of placing too much confidence in the promises people have made, harbor only those ambitions you know you can accomplish yourself. The Queen of Swords does not want to wait and see what others would think, say or do. She knows what she wants and how to get it. She doesn\'t ask permission or even subject herself to much influence. There are times in life when no one can take care of you as well as you can. Leave sentimentality behind and take action. Make important decisions for yourself because it\'s up to you. You are the final judge.',
     },
     {
         name: 'King of Swords',
         imageUrl: './images/minor/swords/Swords14.jpg',
-        generalInfo: 'This is general Swords info',
-        reversePosition: 'This is reverse info for Swords',
-        advisePosition: 'This is advise info for Swords',
+        generalInfo: 'Traditionally, representing the energy of a King, this masculine energy form is The Adjudicator, the wise judge or mediator. He helps parties in conflict discover common ground and build upon it, and guides societies to see their greater good. His archetype is Solomon, ancient lawgiver and philosopher of the Old Testament. Sometimes appearing cool and detached, he can be misunderstood as not caring. But emotional displays are just not his medium, nor is he moved by appeals to sympathy or pity. With the philosophical overview that comes from long experience, he listens deeply, watches closely and speaks last. In the end, his even-handedness and objectivity earn him the respect he receives from his community, and those who cannot work out their problems come to him voluntarily for advice. Occasionally this man is subtly detailed to imply that he is a woman in male armor. If you notice this theme in your deck, it is a reference to Joan of Arc, the Maid of Orleans, archetype of a devout and inspired woman warrior, who was mystically led to abandon her social role to defend what she saw as the greater good. Although she was martyred young, her model crystallizes the message that sometimes the good of the whole is more important than the good of the individual, and in that case, even if you lose, you win just for being there.',
+        reversePosition: 'When the King of Swords is reversed, pangs of conscience no longer prick as keenly. It may be that morality and integrity have been compromised. Your inner Wise One must be awakened from that state of blinded self interest and get back to serving the greater good. Hold yourself to a higher standard. Think about what you can contribute, not what you are going to get. Filter the static from your thinking. Relinquish self-absorption and turn your attention to protecting the greater good.',
+        advisePosition: 'In this position, the King of Swords advises that you research your situation and in the process question existing authorities. It may be time to examine underlying assumptions and bring greater clarity into areas that have been left in the dark. Don\'t wait for others to do it. Instead, draw your own conclusions. Spend time reviewing all the ramifications because this King of Swords requires a thorough, methodical examination of ideas and possibilities. Call forth the sober and wise part of yourself -- the elder father figure. Then act on the instructions given you.',
     }
 ]
 const pentacles = [
     {
-        name: '1 of Pentacles',
+        name: 'Ace of Pentacles',
         imageUrl: './images/minor/pentacles/Pents01.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Ace of this suit is usually pictured with a garden or agricultural backdrop, and symbolizes a seed. If this "talent" is planted and tended carefully, it will sprout and reward you with a good harvest. Think of it as a seed of your future fulfillment. An Ace represents the first step to a goal, and if that step is repeated, it will cover great distances. Generally, the suit of Coins are referring to the tangible realities in daily life, but in the case of the Ace, it could be symbolizing a winning idea, game plan or blueprint for eventual materialization. Occult tradition sometimes interpreted this Ace as representing the alchemist\'s gold -- the light within matter, the 3rd eye of the energy-body. This recommends meditating upon the light within, and pointing oneself toward the archetype of humanity enlightened. By practicing such a meditation, one eventually gains enough control of the celestial radiance to heal the body, untangle the emotions and complete the growth of the soul.',
+        reversePosition: 'The Ace of Coins reversed suggests that you should reconnect with the values you are trying to serve. Perhaps external appearances have to distinguish between true gold and costume jewelry. Search your heart. If your motives aren\'t clear, your performance won\'t shine either.',
+        advisePosition: 'The Ace of Coins in this position advises that you apply nature\'s lesson of compound interest and develop your project gradually. A slow and steady buildup -- visible or invisible -- makes change and growth inevitable. Akin to the changing of the seasons, you do not notice this trend from day to day. As the year comes full circle, however, you cannot miss the changes. This card advises that if you work a little bit every day toward your long-term goal, at some time in the future you will discover that you have accumulated magnificent results. The secret of achieving success does not lie in inflating your dreams to grandiose levels; instead it comes about by choosing your direction wisely, while humbly and faithfully taking one step at a time.',
     },
     {
         name: '2 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents02.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Two in this suit generally features a youth juggling, with two coins juggled in figure-eight fashion, or just the coins without the youth -- one heads up, the other tails -- both flipping in the air. It is clear that until one or the other coin drops, the final call can not be made; there is more to learn before a decision can be made about appropriate action. This card counsels patience, so do not allow yourself to be rushed. The figure-eight image is a symbol of immortality and eternity. Its message is "No need to hurry. You have all the time you need to work this out, no matter how things appear right now." Implied within this scenario is the idea that changes are in the works, but you will do better to stay calm until you have more information. Everything is in flux at a time like this.',
+        reversePosition: 'The Two of Coins reversed suggests that you let go of passivity if this is a time for action. You may be displaying too much ambivalence about outcomes, much to your detriment. A neutral stance or procrastination will not serve you here. You must move into proactive support for the good of all concerned and leave passivity behind. At the very least, assert your personal preferences as a sign of respect for any others who also display the courage of their convictions.',
+        advisePosition: 'The Two of Coins in this position advises you not to choose anything definitive for the time being. Give yourself a little more time to sort out your feelings and any mixed messages you may be receiving from others. Ask yourself -- are all the facts in yet? Or is the coin still flipping in the air? There is no need to be goaded into premature decisions or actions. Act only when you are able to do so with a unified heart and mind.',
     },
     {
         name: '3 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents03.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Three is traditionally the card of genius. Here we usually see a master craftsman conferring with his masons on the installation of a beautiful stained-glass window in the cathedral. This designer is often likened to Leonardo da Vinci or Michelangelo, a multi-talented visionary who has no peers in talent or productivity. The masterwork is being proudly showcased for future generations, as an object of personal and collective pride. On some cards, the genius is portrayed at his studio, alone and burning the midnight oil, in a creative ferment -- driven to draw, paint, invent, or whatever work genius wants to bring into creation. As a subtext to the rewards of genius are the days and weeks of intense concentration it takes to solve the problems that great works entail.',
+        reversePosition: 'The Three of Coins reversed suggests that you beware of perfectionism and other subtle forms of egoism. This may be tied to a refusal to share one\'s gifts and vision with the world. Perhaps you consider the world not worth it or are afraid that others simply won\'t care. This is really an indirect form of perfectionism that would have you cut off your nose to spite your face. Remember that acts of genius belong more to the divine inspiration that calls them forth than they do to the personalities they come through.',
+        advisePosition: 'The Three of Coins in this position suggests that you showcase your unique capabilities. Let the world in on who you really are. This is a good time to seek recognition. Once you receive the appreciation you deserve, accept and savor the acknowledgment. Expect new and exciting offers. When they arrive, accept them graciously. Why hide your light under a bushel? It does not become you to display false modesty. Practice saying to yourself, "Thank you, I accept the compliment" until you learn to fully let in this kind of affirmative grace with ease.',
     },
     {
         name: '4 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents04.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'A Four in this suit has been used to express the paradoxical aspect of material security -- the two-edged sword of having been well supported and protected. It sounds completely idyllic until one investigates the real demands that prosperity places upon people -- the pressure of big decisions, responsibilities toward dependents or employees, and even tougher decisions in times of insecurity. An immature person thrust into such a position would lack the perspective to sensibly assess risks and rewards, would be vulnerable to bad advice or surprise developments, and could even put the livelihoods of loyal assistants at risk. This card also can refer to the subtler dependencies that comfort encourages, allowing laxness and self-indulgence to quietly degrade one\'s reserve of will. The character this card represents needs to move slowly and deliberately if change is required, as the consequences will affect more than just her or himself. Note: In the English decks, like Rider-Waite, we see a person who is stuck in their misunderstanding of how the material plane works. He\'s afraid to let go of his four measly coins, because he doesn\'t know he has to give in order to get. When looked at this way, this is the card of poverty consciousness.',
+        reversePosition: 'The Four of Coins reversed suggests that instead of looking for ways you can help, you may be allowing resentment to get in your way. Are you are heading into a situation fraught with resentment, as if you feel you are owed something? Instead of looking for how you can help, you may be worrying about how you are going to get paid back. Even if you have everything you need, you still feel impoverished. This attitude constricts the flow around you. This is not an insurmountable obstacle, but you have to work this out before you can make progress.',
+        advisePosition: 'The Four of Coins in this position signifies a young person, naive and pampered, who has been left an estate. Think conscientiously about all those people whom your activities impact, including those whose work and effort went into building what you inherited and those whose welfare depends upon your right management. What you have been given is abundant; still, it is not without limits. If you are prudent and responsible, the endowment will grow. However, if you are frivolous or foolish, your behavior could undermine both your inheritance and the well being of others who are connected to it. In many decks, we see the image of a person who is stuck in his or her misunderstanding of how the material plane works. He\'s afraid to let go of his four measly coins, because he doesn\'t know he has to give in order to get. When looked at this way, this is the card of "poverty consciousness."',
     },
     {
         name: '5 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents05.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Five of this suit is the card of desire and gratification, expressed in classical tradition as flattery and false promises. This card represents both the seducer and the one seduced. There is undeniable excitement in the attraction of opposites; we have all had delightful moments of magnetism with a stranger. However, if promises are only spoken to achieve short-term gratification with no intent of follow-through, or the attraction appears as competition to more fulfilling relationships, the long-term result won\'t be worth the thrill of the chase. The appearance of a viable relationship does not always bear out, so don\'t put anything of real value at risk over an infatuation. Since the suit here is Coins, this is as likely to be related to business as to pleasure. Try to remove the influence of glamour from your thinking. Note: In the English decks, like the Rider-Waite, the sickly poor freezing outside a well lit church warn of the painful outcomes of bad choices, rather than focusing on the dynamic tension of the choosing itself.',
+        reversePosition: 'The Five of Coins reversed suggests that you should take a hard look at a situation and root out possible deceptions. Perhaps you are being deceived or you are the one deceiving others (or yourself). There may be a part of you that\'s so eager to believe in fairy tales or rescue fantasies, that you would fail to check the fine print or a would-be savior\'s credentials. It\'s time to start asking the hard questions. If you can\'t bring yourself to do that, then you cannot succeed in this situation.',
+        advisePosition: 'The Five of Coins in this position advises you to create contractual agreements with those around you who have similar interests. In this kind of situation, there is strength in numbers. Put your heads together and devise a bold plan for future objectives and decide how to invest in their success. This Five of Coins recommends teamwork and the mutual benefits a combined effort can yield. Note: In the English decks, like the Rider-Waite, the sickly poor freezing outside a well-lit church warn of the painful outcomes of bad choices, rather than focusing on the dynamic tension of the choosing itself.',
     },
     {
         name: '6 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents06.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Six of this suit is the card of patronage -- generosity with strings attached. The picture shows a rich man giving alms, his reputation enhanced from his giving, but without having helped anybody really better him or herself. Sometimes there is an inference that the giver will be expecting something back for his giving, perhaps sexual favors. Sometimes this card is interpreted as referring to some kind of patron or benefactor who rescues a talented person from oblivion, but then wants to dictate what the artist works on as his fame grows. Inequality of power is generally a factor in this card, and the person being helped needs to be careful not to trade off heart and soul for a shortcut to fame or fortune. Each player in this scenario needs to examine the possibility they are taking one side or the other in an unbalanced power struggle.',
+        reversePosition: 'The Six of Coins reversed suggests that the idea of payback may have become too important to you. The reversal of this card points to someone who is too focused on the idea of getting something back. You may have postured yourself to look generous, supportive, understanding, but in the fine print you have created so many binding conditions that there is no way anybody can take you up on the offer. Nobody is fooled by such conditional giving.',
+        advisePosition: 'The Six of Coins in this position asks you to think of yourself as a cosmic talent agent, seeking individuals who show a spark or gift. You may help them refine and upgrade their skills to fit a larger context. The outcome is a peer relationship with a sense of mutual regard and admiration. This is a delicate operation. You have to constantly check your intentions so that you are not expecting something in return. Do not for a minute feel proud about doing someone a favor. In truth what you are doing is paying back an old debt to those who served as your mentors.',
     },
     {
         name: '7 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents07.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Seven of this suit is typically a paean to the humble laborer who is willing to show up every day and sweat in the sun for next season\'s bounty. The traditional concept is cultivation, with an attitude that slow and steady wins the race, with faith in nature\'s assistance. The protagonist of this card doesn\'t make excuses, isn\'t whimsical or moody, but is dedicated and sees the job through. Of course, it\'s no good to count your chickens before they hatch, but there\'s no question that the person who is vigilant over a project is more likely to get the desired result. Someone who works with nature, cooperating with her ways, will waste less energy and time than the person who works against her. As a side meaning, we sometimes see this normally humble farmer in a moment of frenzy, betting the crop on a roll of the dice. This represents a moment of dementia, addiction or desperation which hopefully will not last long enough for the farmer to lose everything!',
+        reversePosition: 'The Seven of Coins reversed suggests that you may need a warning against doing something rash or taking a gamble. This card is traditionally associated with the idea of someone who is a gambler. This is usually a person who has lost track of the rewards of productivity and self-discipline. Such a person may be willing to bet the farm on the roll of the dice, gambling not only his or her well being but also that of loved ones or others. This card is a warning against doing something rash. It\'s not too late to reconsider your options.',
+        advisePosition: 'The Seven of Coins in this position advises you to focus on the long run. Look beyond this week or this month. This card exemplifies the magic of compound interest. You\'ll have much better results with a slow and steady investment of time, energy and labor than you would generate by trying to win the lottery. The path to success is paved by perseverance. Glamorous or flashy moves cannot take the place of consistent steps in the right direction. If you do not understand this, perhaps you are moving in the wrong direction or are not motivated strongly enough.',
     },
     {
         name: '8 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents08.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Eight of this suit is the card of works. We see here the successful artisan spending time at his bench, hammering out the commissions he has attracted because of his skill. This artist is the best in her or his class, so popular that it\'s become difficult keep up with demand. She is paid whatever she asks and accepts only the most worthy assignments. If there is a problem in this card, it has to do with the trap of workaholism, the feeling of being so indispensable that you will not ask for help or delegate anything. There is also the issue of becoming so identified as the creator of elegant works, that the personal identity of the creator becomes consumed by the works themselves. This artisan seldom gets to have a home life, time off, much time for friends. The solution lies in balancing creative energy with a personal life.',
+        reversePosition: 'The Eight of Coins reversed asks that you not mistake your work for your identity. It is a common error to overly identify with one\'s livelihood. This card reversed indicates that you are in danger of losing your self to your work. This would be a big mistake. Refuse to accept such a limited definition of who you are.',
+        advisePosition: 'The Eight of Coins in this position recommends that you focus on your main project and produce as much as you can, while staying healthy. This is an important time for meeting goals. However, do not work so hard that quality suffers. You are in a position where your effort can make a big difference. Apply yourself. Do the work and you will be rewarded with flexibility and freedom.',
     },
     {
         name: '9 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents09.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Nine of this suit points to a person who is financially secure enough to live comfortably. This is about someone supported by her own business, inheritance or property. This is one person in a thousand. This fortunate individual has turned a historical accident into a personal opportunity. This is one who has the vision and strength of character to hold onto gains against all odds. Do not be fooled at the apparent ease displayed on this card -- the person pictured is at the tail end of a long and stressful process of winning the right to be taken seriously. All of this grace has been paid for several times over.',
+        reversePosition: 'The Nine of Coins reversed suggests a period of self-discipline is needed to restore your energy and vitality. You may be enmeshed in a situation of dependency or overindulgence. You may be getting a bit sloppy, not in full possession of all your energy and focus. The remedy is austerity and self-discipline. You\'ll be much healthier -- and happier -- after you have straightened up your act.',
+        advisePosition: 'The Nine of Coins in this position suggests that you prepare yourself for greater resources to be flowing in your direction. If you pay attention -- and keep the faith -- you can make a smooth transition into a state of well being and peace of mind. Hard work has brought you to a place where you could earn and receive grace, comfort, and freedom -- whether that be personal, emotional or financial. Exercise your imagination and create an abundant, sustainable, and enjoyable lifestyle (or relationship) for yourself. Acknowledge the friends and others who were loyal to you during the difficult times. Gather your dreams and get ready. You deserve this happiness.',
     },
     {
         name: '10 of Pentacles',
         imageUrl: './images/minor/pentacles/Pents10.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'The Ten of this suit represents the final result of cumulative efforts -- perhaps after generations of effort -- resulting in such abundance that it directly and indirectly supports a lot of people. One layer of meaning refers to the pride of supporting your own lineage of well-loved souls. Imagine a flow of abundant resources so abundant that you are filled with not only pride but self-respect and gratitude. Such bounty can impact the destiny of many families and generations. Nobility obligates is possessors, and the obligation must be passed down from generation to generation along with the abundance and freedom.',
+        reversePosition: 'The Ten of Coins reversed suggests that having to make an entirely new start is sometimes a blessing. You may feel as if you have experienced a terrible loss or a fall from grace. This may be true, but both the having and the losing are part of the fluctuating evolution of human consciousness. Sometimes you just have to begin again.',
+        advisePosition: 'The Ten of Coins in this position advises that you think of yourself as one who may be of great benefit to people. No matter whether it be a service, an invention or an idea -- you know you are holding a storehouse of value. Your potential treasure is enough to take care of you and yours for a long time. Exactly how are you going to administer the rewards of your talent? Recall the time when you began this current path or endeavor. Remember your sincerity, your innocence and your original vision. Can you reproduce success and sustain inspiration as the administrator of your present abundance? Think of every act of spending and investing and securing as the sowing of seed that will sprout and produce another money tree in somebody else\'s yard. How can you get really clever and inventive at throwing those seeds? This is your next assignment.',
     },
     {
         name: 'Page of Pentacles',
         imageUrl: './images/minor/pentacles/Pents11.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'This card is traditionally entitled The Page, but in some modern decks appears as a Princess. This card\'s energy has to do with learning about compound interest and abundance. Her attention is focused on learning the natural laws that pertain to natural synergies. Whether the learning is about growing vegetables, the stock market or culturing new medicines in the lab, this Page wants to understand the underlying mechanism that supports the creation of results and abundance. You may see this person in the position of the attendant or junior partner, but that is only a current appearance. That demeanor of humility or servitude will soon enough disappear, as her sense of mastery increases. By studying the example of those around her, successful and unsuccessful, she is building a game plan that will lift her from obscurity and make her successful in her own right. She just has to collect the necessary education and experience, which she is doing right now.',
+        reversePosition: 'The Page of Coins reversed suggests that you should not doubt or resist the impulse to be of service to others. Embrace the discipline that it takes and just do it. You may feel like you are being coerced into it or that being in service is a role you don\'t want. Perhaps you have doubts about the outcomes your labors are contributing toward. The reality is that you have to work to eat and you have to develop considerable skill in a profession before it can liberate you. Be disciplined -- harness your will as well as your talent.',
+        advisePosition: 'The Page of Coins (in some decks, a Princess) in this position advises that you study your chosen field seriously, gaining intellectual knowledge plus whatever experiential learning you can pick up as well. Listen to the stories of others, both their successes and their failures, and let yourself be inspired by their dedicated efforts. Leave no stone unturned. See if you can figure out why their experiments went the way they did and what you might do differently that could change the outcome. Passionately hunt for the missing pieces overlooked by those who came before you. Remember that the mind of a beginner is an open channel for genius. Let that openness lead you and you will instinctively penetrate to the heart of the matter.',
     },
     {
         name: 'Knight of Pentacles',
         imageUrl: './images/minor/pentacles/Pents12.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'This card is usually called The Knight, but in some modern decks appears as the Prince. Traditionally, this card in this suit pictures an overseer of fertility and growth. His period of ascendancy is during the quiet years between conflicts, when everybody can collaborate in raising the collective standard of living. His horse is usually huge and thickset, more suitable to pulling a plow than riding swiftly into battle. His temperament is easygoing and relaxed, he\'s moving at the rate of the flow, because he knows that you can\'t hurry time. Seeing the bigger picture, like a farmer planning for the future, he doesn\'t allow momentary fads or fancies to distract him, and he doesn\'t take seriously those who do. One can feel his stability and dedication -- he is totally responsible and even somewhat predictable when it comes to his projects. He is earthy and gentle, as simple and deep as the soil he tills and the flowers he loves.',
+        reversePosition: 'The Knight of Coins reversed suggests that you should stop wasting energy on people who can\'t appreciate you. Stop throwing good money after bad. Cease wasting your blood, sweat and tears on enterprises dominated by people who can\'t appreciate you. In this instance, you would benefit the whole situation by moving on instead of being so loyal and true.',
+        advisePosition: 'When the Knight of Coins (in some decks, The Prince) falls in this position you are being advised to offer up your services to some project or enterprise in front of you. Your willing participation can make the difference between a marginal performance and a great one. The entire endeavor will be enhanced significantly by the resources you bring to it and you will be blessed tenfold. Expect to supervise and guide the project as well as influence the outcome of events. Without you on board, this endeavor is just another good idea.',
     },
     {
         name: 'Queen of Pentacles',
         imageUrl: './images/minor/pentacles/Pents13.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'Traditionally, representing the energy of a Queen, this feminine guardian is endowed with enormous good sense and problem solving energy, but she is not particularly entrepreneurial. She loves to advise, encourage, and empower those she gets involved with, studying their problems with them and setting them up to solve them. Traditionally, she was pictured as the Sibyl or Oracle, perhaps a Tarot reader, who made herself available to people in need, no matter what their social class or situation. In modern times, she will be found educating, healing, managing disaster aid programs or a charitable drive of some sort. In every case, she does not see the benefits that exist in her life as belonging solely to her. She feels the needs of her people and will spend freely of her time, energy, skills, money to see that nobody is left out. For this, and because she likes to work in an atmosphere of beauty, enjoyment and abundance, she is sometimes accused of being extravagant. But she works hard, and she sees no reason to deny herself the rewards of a job well done. Everyone who comes in contact with her feels enriched by her enjoyment in living.',
+        reversePosition: 'The Queen of Coins reversed suggests that you should make an objective assessment of the way you manage your life and identify areas that can be improved. This may be a warning against becoming addicted to whatever pleasure has you in its sway. It\'s important to review the ways you have been spending your time, money and energy over the last six months or so and ask yourself "Is this truly in balance? Is there something I could improve about the way I have been managing my life?"',
+        advisePosition: 'The Queen of Coins in this position advises you to trust the forces that have taken care of you up to this point. Continue to express your truth without worrying that you are going to lose the roof over your head or the bed you sleep in. It is your destiny to be safe and sound at this time in your life. Proceed with confidence and do what you so strongly feel must be done. Since the Queen of Coins is often the person with the best intuition in the crowd, you may feel at first as if you are going against the grain, only to later find yourself becoming the leader of a new trend.',
     },
     {
         name: 'King of Pentacles',
         imageUrl: './images/minor/pentacles/Pents14.jpg',
-        generalInfo: 'This is general Pentacles info',
-        reversePosition: 'This is reverse info for Pentacles',
-        advisePosition: 'This is advise info for Pentacles',
+        generalInfo: 'Representing the energy of a King, this card in the suit of Coins or Pentacles displays one who has accomplished a lot in life and has arranged his or her affairs so that he has much good to show for it. Possessing a practical genius in the ways of the world, he loves to build things. Because he\'s so good at deal-making, this character is privy to the biggest deals in town. He has the power to make or break people financially. Although this does not always win him love, it certainly earns him respect. In previous centuries this card referred to the myth of Midas, who loved gold so much that he was cursed so that everything he touched turned to gold. One day his daughter reached out to him and was turned into a golden statue. This story illustrates the downside of letting material security take too much precedence. While the character of this card understands the value of wealth, including the burden it produces, he or she is mature enough to keep things in perspective. Even though the suit of Coins represents the material realm, this King is not just a materialist -- his sovereignty reflects higher values, as well as general welfare and prosperity.',
+        reversePosition: 'The King of Coins reversed suggests that you should shift your focus from control to self-discipline. This may be indicating an insatiable craving that reality on the physical plane cannot satisfy. Such a situation calls for self-discipline; otherwise you will slide into self-doubt and the misuse of your abilities. A true master, a true king, outgrows the need to demonstrate his power unless it is truly needed for the good of the realm. A negative example of such misuse of power was the mythical King Midas, who craved the power to turn everything to gold that he touched, until he accidentally picked up his daughter. There is more to life than control or ownership.',
+        advisePosition: 'The King of Coins in this position advises you to behave as if you already were a success. Project confidence that your plans and goals are in the process of unfolding perfectly. Make your moves with authority and trust in your actions without waiting for acknowledgment or approval. Soon enough you will receive blessing after blessing. If you can learn to feel that kind of confidence in your body and get comfortable with it as your natural state, you will attract the support you desire.',
     }
 ]
-
+const spreads = [
+    {
+        name: 'Advice',
+        imageUrl: './images/spreads/advice.png'
+    },
+    {
+        name: 'Career Path',
+        imageUrl: './images/spreads/career-path.gif'
+    },
+    {
+        name: 'Celtic Cross',
+        imageUrl: './images/spreads/celtic-cross.png'
+    },
+    {
+        name: 'Character',
+        imageUrl: './images/spreads/character.jpg'
+    },
+    {
+        name: 'Clarity',
+        imageUrl: './images/spreads/clarity-spread.jpg'
+    },
+    {
+        name: 'Fork In The Road',
+        imageUrl: './images/spreads/fork-in-the-road.jpg'
+    },
+    {
+        name: 'Future Love',
+        imageUrl: './images/spreads/Future-Love-Spread.jpg'
+    },
+    {
+        name: 'Month Ahead',
+        imageUrl: './images/spreads/month-ahead.jpg'
+    },
+    {
+        name: 'Partners',
+        imageUrl: './images/spreads/partners.gif'
+    },
+    {
+        name: 'Quick Love',
+        imageUrl: './images/spreads/quick-love.jpg'
+    },
+    {
+        name: 'Relationship',
+        imageUrl: './images/spreads/relationship.jpg'
+    },
+    {
+        name: 'Stairwell',
+        imageUrl: './images/spreads/stairwell.jpg'
+    },
+    /*
+    {
+        name: '',
+        imageUrl: './images/spreads/'
+    },
+    */
+]
 
 const cardContainer = document.getElementById('card-container');
 const sideContainer = document.getElementById('side-menu-container');
@@ -568,9 +623,7 @@ const cupsButton = document.getElementById('cups-button');
 const swordsButton = document.getElementById('swords-button');
 const wandsButton = document.getElementById('wands-button');
 const pentaclesButton = document.getElementById('pentacles-button');
-const minorButton = document.getElementById('minor-button');
-const subNav = document.getElementById('subnav-content');
-
+const spreadsButton = document.getElementById('spreads-button');
 
 function formatCard(card, container) {
     let cardImage = document.createElement("IMG");
@@ -591,6 +644,17 @@ function formatCard(card, container) {
     container.appendChild(cardReverse);
     container.appendChild(cardAdvise);
 
+}
+
+function formatSpread(spread, container) {
+    let spreadImage = document.createElement("IMG");
+    spreadImage.src = spread.imageUrl;
+    spreadImage.className = 'spread-image';
+    let spreadHeader = document.createElement("H2");
+    spreadHeader.innerHTML = spread.name;
+
+    container.appendChild(spreadHeader);
+    container.appendChild(spreadImage);
 }
 
 function formatMajorNav(array, container) {
@@ -633,7 +697,7 @@ function formatWandsNav(array, container) {
 
 wandsButton.onclick = function() {
     sideContainer.innerHTML = '';
-    formatMajorNav(wands, sideContainer); 
+    formatWandsNav(wands, sideContainer); 
 }
 
 
@@ -698,4 +762,22 @@ function formatPentaclesNav(array, container) {
 pentaclesButton.onclick = function() {
     sideContainer.innerHTML = '';
     formatPentaclesNav(pentacles, sideContainer); 
+}
+
+function formatSpreadsNav(array, container) {
+    for (let i = 0; i < array.length; i++) {
+        let spreadsLink = document.createElement("P");
+        spreadsLink.innerHTML = array[i].name;
+        spreadsLink.id = array[i] + '-button';
+        spreadsLink.addEventListener('click', function () {
+            cardContainer.innerHTML = '';
+            formatSpread(array[i], cardContainer);
+        })
+        container.appendChild(spreadsLink);
+    }
+}
+
+spreadsButton.onclick = function() {
+    sideContainer.innerHTML = '';
+    formatSpreadsNav(spreads, sideContainer); 
 }
